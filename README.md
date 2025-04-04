@@ -1,6 +1,6 @@
 to start : npm install then npm start
 
-deployed on https://vercel.com
+deployed on https://vercel.com link: https://101419665-lab-test2-comp3133.vercel.app/
 
 Main page: ![image](https://github.com/user-attachments/assets/300e86e1-0b31-4531-9d4c-c45ac1fe49d5)
 
